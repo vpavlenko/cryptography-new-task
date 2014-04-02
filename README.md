@@ -27,6 +27,7 @@
 --------------------
 
 [Слайды с лекции](https://speakerdeck.com/vpavlenko/cryptography-part-2-spring-2014-intellectual-high-school)
+
 1. Повторение.
 1. Trusted timestamping.
 1. Электронный чек.
