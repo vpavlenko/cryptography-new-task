@@ -26,7 +26,7 @@
 План лекции 2 апреля
 --------------------
 
-[Слайды с лекции](https://speakerdeck.com/vpavlenko/cryptography-part-2-spring-2014-intellectual-high-school)
+[Слайды с лекции](https://speakerdeck.com/vpavlenko/cryptography-part-3-spring-2014-intellectual-high-school)
 
 1. Повторение.
 1. Trusted timestamping.
