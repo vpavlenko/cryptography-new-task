@@ -26,9 +26,12 @@
 План лекции 2 апреля
 --------------------
 
+[Слайды с лекции](https://speakerdeck.com/vpavlenko/cryptography-part-2-spring-2014-intellectual-high-school)
+1. Повторение.
 1. Trusted timestamping.
-1. Биткоины.
-2. Обсуждение домашней работы. Будет рассказано решение номеров 2-3 (их больше нельзя будет зачесть).
+1. Электронный чек.
+
+Мы не успели поговорить про биткоины.
 
 
 Ссылки
@@ -52,6 +55,8 @@
 4. [Уязвимость во Flickr'e - length-extension attack на MD5](http://netifera.com/research/flickr_api_signature_forgery.pdf)
 
 5. [Основная статья про биткоины](https://bitcoin.org/bitcoin.pdf)
+
+6. [Edward Schaefer. An introduction to cryptography and cryptanalysis](http://math.scu.edu/~eschaefe/book.pdf)
 
 
 Задания
